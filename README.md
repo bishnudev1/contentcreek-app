@@ -1,5 +1,9 @@
 # ContentCreek
 
+<div align="center">
+  <img src="./contentcreek.png" alt="ContentCreek Logo" style="width: 50%;">
+</div>
+
 **Your neighborhood blog generation tool!** Just provide a title and select the desired word count to generate engaging blog content.
 
 ## Overview
