@@ -1,9 +1,13 @@
 import together
 from langchain.prompts import PromptTemplate
 from st_copy_to_clipboard import st_copy_to_clipboard
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Set your API key
-together.api_key = "3d66f314769b6eab8d36be13262b3c9cf943a376509b1d243777880aff8b05db"
+together.api_key = os.getenv('TOGETHER_API_KEY')
 
 isloading = False
 
