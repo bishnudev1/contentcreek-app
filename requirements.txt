@@ -1,0 +1,5 @@
+streamlit
+together
+langchain
+st_copy_to_clipboard
+pillow
