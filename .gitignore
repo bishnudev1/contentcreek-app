@@ -1,3 +1,8 @@
 venv/
 .env
 __pycache__/
+
+contentcreek/node_modules
+contentcreek/package-lock.json
+creekcontent-backend/venv
+model/venv
